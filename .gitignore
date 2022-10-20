@@ -1,1 +1,14 @@
+hardware/Lab6/
+hardware/builds
 
+software/*
+!software/gpio_ctrl_driver
+software/gpio_ctrl_driver/*
+!software/gpio_ctrl_driver/src
+
+#software/design_1_wrapper
+#software/gpio_ctrl_driver_system
+#software/RemoteSystemsTempFiles
+#software/.metadata
+#software/gpio_ctrl_driver/_ide/
+#
